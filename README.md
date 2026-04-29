@@ -22,3 +22,16 @@ The assignment focuses on the transition from imperative to functional programmi
 2. Run the following command in the project folder:
    ```bash
    npm install
+### Running Tests
+To run the automated tests (Jest):
+
+Bash
+npm test
+### Project Structure
+part1.md: Theoretical questions.
+
+src/: TypeScript and L3 source files.
+
+tests/: Project test suite.
+
+Course: Principles of Programming Languages (2026)
